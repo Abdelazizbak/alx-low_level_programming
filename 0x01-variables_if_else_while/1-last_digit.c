@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlic.h>
+#include <stdlib.h>
 #include <timie.h>
 /**
 *main - Prints the last digit of random number
