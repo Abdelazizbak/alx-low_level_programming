@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.c>
+#include <ctype.h>
 /**
 *main - program to print alphabet letters in reverse followed by new line
 *
